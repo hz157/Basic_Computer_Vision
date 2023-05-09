@@ -1,0 +1,4 @@
+opencv-python~=4.6.0.66
+torch~=2.0.1
+ultralytics~=8.0.96
+ultralyticsplus~=0.0.28
