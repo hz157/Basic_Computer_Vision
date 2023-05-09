@@ -23,7 +23,7 @@ pip install -r requirements.txt
 2. Prevent facial images from being displayed on the face_ In the data folder, name the secondary folder with label
 for example：Amy's code is 2000, and her facial data path (face_data/2000)
 
-1. Running training.py to generate recognition XM
+1. Running training.py to generate recognition XML File
 
 2. Select the camera and start main.py
 > The camera can use local or rtsp, rtmp protocols
